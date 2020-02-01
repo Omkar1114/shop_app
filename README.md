@@ -8,6 +8,7 @@ To use this project:
 Create a keys directory under lib with auth_key.dart file (lib/keys/auth_key.drat)
 
 auth_key.dart:
+
 class AuthKey {
   static const authKey = 'YOUR_API_KEY';
 }
